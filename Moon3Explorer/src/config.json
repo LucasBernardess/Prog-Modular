@@ -1,0 +1,39 @@
+{
+  "equipes": [
+    {
+      "nomeEquipe": "Equipe1",
+      "robos": [
+        {
+          "nomeRobo": "Davi",
+          "posicaoRoboNoEixoX": 2,
+          "posicaoRoboNoEixoY": 2,
+          "estiloDeJogo": 1
+        },
+        {
+          "nomeRobo": "Lucas",
+          "posicaoRoboNoEixoX": 2,
+          "posicaoRoboNoEixoY": 0,
+          "estiloDeJogo": 2
+        }
+      ]
+    },
+    {
+      "nomeEquipe": "Equipe2",
+      "robos": [
+        {
+          "nomeRobo": "Ana",
+          "posicaoRoboNoEixoX": 0,
+          "posicaoRoboNoEixoY": 0,
+          "estiloDeJogo": 2
+        },
+        {
+          "nomeRobo": "Joao",
+          "posicaoRoboNoEixoX": 1,
+          "posicaoRoboNoEixoY": 1,
+          "estiloDeJogo": 1
+        }
+      ]
+    }
+  ],
+  "duracaoPartida": 60000
+}
